@@ -81,6 +81,7 @@ hpstore.corpmerchandise.com
 i.jeded.com
 img-prod-cms-rt-microsoft-com.akamaized.net
 img-s-msn-com.akamaized.net
+imgur.com
 imperial.insendi.com
 interactive-examples.mdn.mozilla.net
 itunes-apple.com.akadns.net
