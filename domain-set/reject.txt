@@ -1,1 +1,2 @@
 stun.douyucdn.cn
+stun1.douyucdn.cn

@@ -1,1 +1,2 @@
 DOMAIN,stun.douyucdn.cn
+DOMAIN,stun1.douyucdn.cn
