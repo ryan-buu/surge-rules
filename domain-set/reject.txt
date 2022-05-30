@@ -1,2 +1,3 @@
 stun.douyucdn.cn
 stun1.douyucdn.cn
+p2perrorlog.douyucdn.cn
