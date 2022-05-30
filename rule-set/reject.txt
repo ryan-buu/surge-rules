@@ -1,3 +1,4 @@
 DOMAIN,stun.douyucdn.cn
 DOMAIN,stun1.douyucdn.cn
 DOMAIN,p2perrorlog.douyucdn.cn
+DOMAIN,p2plog.douyucdn.cn
