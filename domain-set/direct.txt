@@ -1,1 +1,2 @@
+securemetrics.apple.com
 .microsoft.com
