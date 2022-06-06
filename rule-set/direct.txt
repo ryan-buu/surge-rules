@@ -1,2 +1,2 @@
-DOMAIN,securemetrics.apple.com
+DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,microsoft.com
