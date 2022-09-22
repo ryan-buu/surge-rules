@@ -1,2 +1,3 @@
+.office365.com
 .apple.com
 .microsoft.com
