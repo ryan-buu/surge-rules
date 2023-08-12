@@ -1,3 +1,4 @@
+DOMAIN-SUFFIX,oraclecloud.com
 DOMAIN-SUFFIX,office365.com
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,microsoft.com
