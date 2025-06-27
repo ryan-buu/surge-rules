@@ -2,3 +2,4 @@ DOMAIN-SUFFIX,censys.io
 DOMAIN-SUFFIX,oracle.com
 DOMAIN-SUFFIX,oraclecloud.com
 DOMAIN-SUFFIX,nssurge.com
+DOMAIN-SUFFIX,nflxvideo.net
